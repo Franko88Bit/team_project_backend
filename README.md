@@ -1,3 +1,5 @@
+Instructions to run this local backend server:
+
 1. Git clone entire backend project aka anime API from https://github.com/chandan-02/anime-facts-rest-api
 2. Download psql locally on my MacBook using : brew install postgresql
 3. Started postgresql app on postgreSQL UI
